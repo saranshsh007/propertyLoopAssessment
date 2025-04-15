@@ -73,7 +73,7 @@ Agent 1 (Property Issue Detection) uses image inputs to identify issues in prope
 
 2. Navigate to the project folder:
     ```bash
-    cd smart-property-assistant
+    cd propertyLoopAssessment
 
 3. Install the required dependencies:
     ```bash
@@ -96,7 +96,7 @@ Agent 1 (Property Issue Detection) uses image inputs to identify issues in prope
 
 5. Run the Streamlit UI :
     ```bash
-    streamlit run streamlitUI/main.py
+    streamlit run streamlitUI/streamlit_ui.py
 
 6. Access the app in your browser.
 
